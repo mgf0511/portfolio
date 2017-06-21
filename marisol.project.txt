@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+
+</style>
+</head>
+<body style="background-color:pink;">
+<h1 style="font-size:36px;color:blue; ">Marisol</h1>
+<p>Hello *insert your name*! Y'all can call me Mari </p>
+
+
+</body>
+</html>
